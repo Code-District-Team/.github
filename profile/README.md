@@ -1,7 +1,3 @@
-Here’s the updated `README.md` with the provided social media URLs:
-
----
-
 # Welcome to Code District 👋
 
 ![Code District Logo](https://codedistrict.com/wp-content/uploads/2020/06/logo.png)
