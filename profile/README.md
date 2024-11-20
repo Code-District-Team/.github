@@ -1,6 +1,7 @@
 # Welcome to Code District 👋
 
-![Code District Logo](https://codedistrict.com/wp-content/uploads/2020/06/logo.png)
+<img src="../CD LOGO AHMAD-04.png" alt="Image description" width="100">
+
 
 ## 🌟 About Us
 
