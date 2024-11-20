@@ -23,7 +23,7 @@ Visit us at [codedistrict.com](https://codedistrict.com/).
 | [nestjs-template](https://github.com/Code-District-Team/nestjs-template) | A NestJS project template for scalable applications. | TypeScript |
 | [react-vite-template](https://github.com/Code-District-Team/react-vite-template) | A React template powered by Vite for fast development. | JavaScript |
 
-➡️ Explore all our repositories [here](https://github.com/Code-District-Team).
+➡️ Explore all our repositories [here](https://github.com/orgs/Code-District-Team/repositories).
 
 ## 🌍 Join Our Community
 
