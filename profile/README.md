@@ -46,7 +46,7 @@ Whether you're fixing bugs, adding features, or improving documentation, your he
 3. Make your changes and commit.
 4. Open a pull request.
 
-Check out our full [contributing guidelines](https://github.com/Code-District-Team/.github/blob/main/CONTRIBUTING.md) for more details.
+Check out our full [contributing guidelines](/CONTRIBUTING.md) for more details.
 
 ---
 
